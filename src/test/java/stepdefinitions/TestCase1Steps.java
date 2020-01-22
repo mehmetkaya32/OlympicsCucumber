@@ -3,7 +3,6 @@ package stepdefinitions;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import org.testng.Assert;
-import pages.TestCase1Pages;
 import utilities.MyDriver;
 
 public class TestCase1Steps extends TestCase1Pages {
